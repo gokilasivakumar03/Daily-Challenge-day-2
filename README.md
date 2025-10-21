@@ -1,1 +1,1 @@
-# Daily-Challenge-day-2
+# Coding challenge
